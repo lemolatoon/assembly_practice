@@ -1,7 +1,6 @@
-###実行方法
+## 実行方法
 
-///
-C言語による呼び出し
-$ gcc -nostdlib substart.s print\_b.s hello.c -o hello
+```
+$ gcc -nostdlib substart.s print_b.s hello.c -o hello
 $ ./hello
-///
+```
