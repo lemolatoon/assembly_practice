@@ -1,6 +1,6 @@
 void print(const void* c);
 
-int main(void) {
+int hello(void) {
 	char str[] = "Hello World";
 	print(&"a");
 	print(&"a");
